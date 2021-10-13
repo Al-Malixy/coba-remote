@@ -1,3 +1,3 @@
 <?php
-//ini komen
+//ini komen index
 echo "ini index";
