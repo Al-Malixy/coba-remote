@@ -1,2 +1,2 @@
 <?php
-echo "ini form register";
+echo "ini adalah laman register";
